@@ -1,8 +1,10 @@
 package org.example.pojo.createorder;
 
+import org.example.pojo.RequestBody;
+
 import java.util.List;
 
-public class CreateOrderRequest {
+public class CreateOrderRequest implements RequestBody {
     private String firstName;
     private String lastName;
     private String address;

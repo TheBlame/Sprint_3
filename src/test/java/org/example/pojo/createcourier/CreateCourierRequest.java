@@ -1,6 +1,8 @@
 package org.example.pojo.createcourier;
 
-public class CreateCourierRequest {
+import org.example.pojo.RequestBody;
+
+public class CreateCourierRequest implements RequestBody {
     private String login;
     private String password;
     private String firstName;
