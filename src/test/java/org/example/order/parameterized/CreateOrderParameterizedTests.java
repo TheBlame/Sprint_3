@@ -2,8 +2,8 @@ package org.example.order.parameterized;
 
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.Response;
-import org.example.Utils.Order.OrderGenerator;
-import org.example.Utils.Order.OrderSteps;
+import org.example.utils.order.OrderGenerator;
+import org.example.utils.order.OrderSteps;
 import org.example.pojo.createorder.CreateOrderRequest;
 import org.junit.Test;
 import org.junit.runner.RunWith;

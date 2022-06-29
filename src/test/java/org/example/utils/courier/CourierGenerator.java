@@ -1,4 +1,4 @@
-package org.example.Utils.Courier;
+package org.example.utils.courier;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.example.pojo.courierlogin.CourierLoginRequest;

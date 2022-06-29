@@ -2,7 +2,7 @@ package org.example.order.nonparameterized;
 
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.Response;
-import org.example.Utils.Order.OrderSteps;
+import org.example.utils.order.OrderSteps;
 import org.junit.Test;
 
 import static org.apache.http.HttpStatus.*;

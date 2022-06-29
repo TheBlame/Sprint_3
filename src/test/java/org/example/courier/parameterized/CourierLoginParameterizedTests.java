@@ -2,9 +2,9 @@ package org.example.courier.parameterized;
 
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.Response;
-import org.example.Utils.Courier.CourierGenerator;
-import org.example.Utils.Courier.CourierSteps;
-import org.example.Utils.Courier.CourierUtils;
+import org.example.utils.courier.CourierGenerator;
+import org.example.utils.courier.CourierSteps;
+import org.example.utils.courier.CourierUtils;
 import org.example.pojo.courierlogin.CourierLoginRequest;
 import org.example.pojo.createcourier.CreateCourierRequest;
 import org.junit.AfterClass;

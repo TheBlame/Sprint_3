@@ -1,4 +1,4 @@
-package org.example.Utils.Order;
+package org.example.utils.order;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.example.pojo.createorder.CreateOrderRequest;
