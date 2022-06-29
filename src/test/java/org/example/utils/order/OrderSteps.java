@@ -1,8 +1,8 @@
-package org.example.Utils.Order;
+package org.example.utils.order;
 
 import io.qameta.allure.Step;
 import io.restassured.response.Response;
-import org.example.Utils.AbstractUtils;
+import org.example.utils.AbstractUtils;
 import org.example.pojo.RequestBody;
 import org.example.pojo.acceptorder.AcceptOrderResponse;
 import org.example.pojo.createorder.CreateOrderResponse;

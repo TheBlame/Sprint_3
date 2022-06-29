@@ -1,6 +1,6 @@
-package org.example.Utils.Courier;
+package org.example.utils.courier;
 
-import org.example.Utils.AbstractUtils;
+import org.example.utils.AbstractUtils;
 import org.example.pojo.courierlogin.CourierLoginRequest;
 import org.example.pojo.courierlogin.CourierLoginResponse;
 import org.example.pojo.createcourier.CreateCourierRequest;

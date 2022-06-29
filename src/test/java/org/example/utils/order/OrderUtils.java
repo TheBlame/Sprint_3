@@ -1,6 +1,6 @@
-package org.example.Utils.Order;
+package org.example.utils.order;
 
-import org.example.Utils.AbstractUtils;
+import org.example.utils.AbstractUtils;
 import org.example.pojo.createorder.CreateOrderRequest;
 import org.example.pojo.createorder.CreateOrderResponse;
 import org.example.pojo.getorder.GetOrderResponse;
